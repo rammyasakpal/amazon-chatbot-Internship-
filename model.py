@@ -70,7 +70,9 @@ class PredictReview:
         input_data['review'] = empty_list
         return input_data
     
-        
+
+
+    
     def test_sample(self,text,tfidf,base_model):
         
         text = self.clean_df(text)
