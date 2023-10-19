@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import pandas as pd
 from model import PredictReview
 
+
 #Get Sentiment
 def get_sentiment(text):
     #importing dataset
