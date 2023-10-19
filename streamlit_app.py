@@ -40,7 +40,7 @@ with st.sidebar:
     menu = ['Amazon Review Sentiment Analysis','Product Queries BOT']
     choice  = st.sidebar.selectbox("Select an option", menu)
     add_vertical_space(10)
-    st.write('Made by [Krish Sanghvi](https://github.com/Krishsanghvii)')
+    st.write('Made by [Rammya Sakpal](https://github.com/rammyasakpal)')
 
 st.header("Your Amazon Assistant 💬")
 st.divider()
